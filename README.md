@@ -6,7 +6,7 @@
 
 This is a full stack progressive web application using node, express, mongodb, mongoose, and indexedDB. This web application tracks deposits and withdrawals and can be downloaded as a local application and will maintain its functionality offline. This is a progressive web applicaton. Visit this site for a more detailed description of progressive web applications: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
 
-View the deployed version at heroku: https://serene-dawn-11878.herokuapp.com/
+View the deployed version at heroku: https://shrouded-river-77176.herokuapp.com/
 
 ## Table of Contents
 
